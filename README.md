@@ -1,6 +1,6 @@
 ﻿# Cadastro de Telefones
 
-Durante a minha passagem na AGER/MT, observei que boa parte da rotina de encaminhamento de SMS para protocolos de ouvidoria e pesquisas de satisfação eram ineficientes, então desenvolvi um sistema para tornar esse processo diversificado e veloz. 
+Quando entrei para a equipe da Ouvidoria da AGER/MT em 2018, observei que boa parte da rotina de encaminhamento de SMS para protocolos de ouvidoria e pesquisas de satisfação eram ineficientes, então desenvolvi um sistema para tornar esse processo diversificado e veloz. 
 
 # Melhorias Na Rotina
 
@@ -9,6 +9,7 @@ Durante a minha passagem na AGER/MT, observei que boa parte da rotina de encamin
 2 - Cadastro de Telefones possui um script para gerar um arquivo csv que acelerou bastante o trabalho da equipe, antes era necessario quase uma hora para encaminhar a pesquisa de satisfação e os números de protocolo, como o sistema de envio de SMS que utilizavamos aceitava csv esse trabalho foi reduzido para menos de 5 minutos.
 
 # Resultados Obtidos 
+
 Durante a utilização do Cadastro de Telefones foi
   * Registados mais de 10.000 contatos
   * Os dados do sistema foi utilizado para diversos relatorios de ouvidoria.
