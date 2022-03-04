@@ -1,0 +1,11 @@
+CREATE DATABASE DBOUVIDORIA;
+USE DBOUVIDORIA;
+
+CREATE TABLE tbl_telefone(
+   id          		INTEGER  NOT NULL PRIMARY KEY auto_increment
+  ,NTelefone        VARCHAR(27) NOT NULL
+  ,NProtocolo     VARCHAR(43) NOT NULL
+  ,TStatus   VARCHAR(12) NOT NULL
+  ,TServico    VARCHAR(27) NOT NULL
+  ,PStatus VARCHAR(27) NOT NULL
+);
