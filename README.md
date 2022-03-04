@@ -2,6 +2,10 @@
 
 Quando entrei para a equipe da Ouvidoria da AGER/MT em 2018, observei que boa parte da rotina de encaminhamento de SMS para protocolos de ouvidoria e pesquisas de satisfação eram ineficientes, então desenvolvi um sistema para tornar esse processo diversificado e veloz. 
 
+![img1](https://user-images.githubusercontent.com/30350869/156822696-f80e8d4d-ee67-4c84-94b7-6d4003a91d86.PNG)
+![img2](https://user-images.githubusercontent.com/30350869/156822700-aa4492b1-f75b-4123-b3c5-47b20e399511.PNG)
+![img3](https://user-images.githubusercontent.com/30350869/156822702-4e9772a5-1b9e-4f3e-aa66-0ee63a92345d.PNG)
+![img4](https://user-images.githubusercontent.com/30350869/156822705-42b3d40d-6c72-4a0c-8133-30e138ca5552.PNG)
 
 
 # Melhorias Na Rotina
